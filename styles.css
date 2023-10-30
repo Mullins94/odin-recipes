@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+}
+
+.veggie {
+    color: green;
+}
+
+li {
+    background-color: beige;
+}
+
